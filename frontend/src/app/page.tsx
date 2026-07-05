@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowRight, Upload, Sparkles, GitBranch, TrendingUp, Zap, Brain, Target, FileText, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, Upload, Sparkles, TrendingUp, Zap, Brain, Target, FileText, CheckCircle2 } from 'lucide-react';
 
 const features = [
   {

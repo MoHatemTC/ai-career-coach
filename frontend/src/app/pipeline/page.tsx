@@ -49,7 +49,11 @@ export default function PipelinePage() {
     finally { setLoading(false); }
   }, [session, addToast]);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => {
+    // load() synchronously toggles the loading flag on mount — intended.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    load();
+  }, [load]);
 
   const updateStatus = async (item: JobTrackingOut, newStatus: TrackingStatus) => {
     if (!session.user_id) return;

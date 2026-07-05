@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { X, Plus, CheckCircle2, Zap, SkipForward } from 'lucide-react';
+import { X, CheckCircle2, Zap, SkipForward } from 'lucide-react';
 import { usersApi } from '@/lib/api/users';
 import { useUserStore } from '@/lib/store/userStore';
 import { useUIStore } from '@/lib/store/uiStore';

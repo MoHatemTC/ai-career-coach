@@ -2,7 +2,6 @@
 
 import { useUIStore } from '@/lib/store/uiStore';
 import { CheckCircle2, XCircle, Info, AlertTriangle, X } from 'lucide-react';
-import { cx } from '@/lib/utils/score';
 
 const icons = {
   success: <CheckCircle2 size={18} style={{ color: 'var(--emerald)' }} />,

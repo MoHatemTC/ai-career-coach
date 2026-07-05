@@ -33,7 +33,7 @@ function TagInput({ label, values, onChange, placeholder }: { label: string; val
 }
 
 export default function ProfilePage() {
-  const { session, setSession, clearSession } = useUserStore();
+  const { session, clearSession } = useUserStore();
   const { addToast } = useUIStore();
   const [profile, setProfile] = useState<UserProfileOut | null>(null);
   const [loading, setLoading] = useState(true);

@@ -44,7 +44,7 @@ export default function RecommendationsPage() {
   const toggleSave = async (jobId: number) => {
     if (!session.user_id) return;
     const isSaved = savedIds.has(jobId);
-    setSavedIds((prev) => { const n = new Set(prev); isSaved ? n.delete(jobId) : n.add(jobId); return n; });
+    setSavedIds((prev) => { const n = new Set(prev); if (isSaved) n.delete(jobId); else n.add(jobId); return n; });
     try {
       await trackingApi.update(jobId, session.user_id, isSaved ? 'reviewed' : 'saved');
       addToast(isSaved ? 'Removed from saved' : 'Job saved ✓', 'success');

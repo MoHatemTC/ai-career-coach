@@ -2,7 +2,7 @@
 
 import { useState, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import { Upload, FileText, X, CheckCircle2, AlertCircle, Zap } from 'lucide-react';
+import { Upload, CheckCircle2, AlertCircle, Zap } from 'lucide-react';
 import { cvApi } from '@/lib/api/users';
 import { useUserStore } from '@/lib/store/userStore';
 import { useUIStore } from '@/lib/store/uiStore';

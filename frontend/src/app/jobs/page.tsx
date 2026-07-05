@@ -56,8 +56,13 @@ export default function JobsPage() {
   }, [expLevel, offset, addToast]);
 
   useEffect(() => {
+    // fetch-on-mount / on-filter-change: fetchJobs synchronously toggles the
+    // loading flag, which is the intended behavior here.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     fetchJobs(true);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // Intentionally re-run only when the experience-level filter changes;
+    // fetchJobs is stable enough for this screen.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [expLevel]);
 
   const toggleSave = async (job: JobOut) => {
@@ -65,7 +70,7 @@ export default function JobsPage() {
     const isSaved = savedIds.has(job.id);
     setSavedIds((prev) => {
       const next = new Set(prev);
-      isSaved ? next.delete(job.id) : next.add(job.id);
+      if (isSaved) next.delete(job.id); else next.add(job.id);
       return next;
     });
     try {
@@ -75,7 +80,7 @@ export default function JobsPage() {
       // rollback
       setSavedIds((prev) => {
         const next = new Set(prev);
-        isSaved ? next.add(job.id) : next.delete(job.id);
+        if (isSaved) next.add(job.id); else next.delete(job.id);
         return next;
       });
       addToast('Failed to update', 'error');

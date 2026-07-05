@@ -10,7 +10,7 @@ import { useUserStore } from '@/lib/store/userStore';
 import { useUIStore } from '@/lib/store/uiStore';
 import type { JobOut } from '@/lib/types/job';
 import type { TrackingStatus, AnalyzeMatchResponse } from '@/lib/types/tracking';
-import { formatSalary, scoreClass, scoreLabel, scoreColor, statusLabel, statusClass } from '@/lib/utils/score';
+import { formatSalary, scoreLabel, scoreColor, statusLabel, statusClass } from '@/lib/utils/score';
 import { timeAgo } from '@/lib/utils/date';
 import {
   MapPin, Calendar, Briefcase, Globe, Star, Bookmark, BookmarkCheck,

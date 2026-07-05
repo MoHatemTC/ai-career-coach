@@ -1,7 +1,7 @@
 'use client';
 
 import AppShell from '@/components/layout/AppShell';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { applicationsApi } from '@/lib/api/applications';
 import { trackingApi } from '@/lib/api/tracking';
 import { useUserStore } from '@/lib/store/userStore';
@@ -21,6 +21,21 @@ export default function ApplicationPage() {
   const [generating, setGenerating] = useState(false);
   const [applying, setApplying] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
+
+  const generateMaterials = useCallback(async () => {
+    if (!session.user_id) return;
+    setGenerating(true);
+    try {
+      const res = await applicationsApi.generate(session.user_id, jobId);
+      setData(res);
+    } catch (err: unknown) {
+      const msg = err instanceof Error ? err.message : 'Failed to generate materials';
+      addToast(msg, 'error');
+    } finally {
+      setGenerating(false);
+      setLoading(false);
+    }
+  }, [session.user_id, jobId, addToast]);
 
   useEffect(() => {
     if (!session.user_id) return;
@@ -43,23 +58,7 @@ export default function ApplicationPage() {
         }
       })
       .catch(() => generateMaterials());
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [session, jobId]);
-
-  const generateMaterials = async () => {
-    if (!session.user_id) return;
-    setGenerating(true);
-    try {
-      const res = await applicationsApi.generate(session.user_id, jobId);
-      setData(res);
-    } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : 'Failed to generate materials';
-      addToast(msg, 'error');
-    } finally {
-      setGenerating(false);
-      setLoading(false);
-    }
-  };
+  }, [session, jobId, generateMaterials]);
 
   const handleCopy = async (text: string, key: string) => {
     await navigator.clipboard.writeText(text);
