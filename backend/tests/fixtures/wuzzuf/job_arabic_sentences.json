@@ -1,0 +1,284 @@
+{
+    "meta": {
+        "totalCount": 1
+    },
+    "data": [
+        {
+            "type": "job",
+            "id": "fe6ba458-0a74-41bb-ae76-1425afe9284b",
+            "attributes": {
+                "jobType": "job",
+                "applicationType": "internal",
+                "status": "active",
+                "title": "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u0633\u0648\u064a\u0642 \u0623\u062f\u0627\u0621 \u0648\u062a\u0642\u0646\u064a",
+                "description": "<ul><li>\u062e\u0628\u0631\u0629 \u0644\u0627 \u062a\u0642\u0644 \u0639\u0646 \u0633\u0646\u062a\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0631\u0642\u0645\u064a \/ \u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0623\u062f\u0627\u0621 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629.<\/li><li>\u0625\u062a\u0642\u0627\u0646 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639: Meta Business Suite\u060c TikTok Ads\u060c Google Tag Manager\u060c GA4.<\/li><li>\u062e\u0628\u0631\u0629 \u0639\u0645\u0644\u064a\u0629 \u0641\u064a Google Ads \u0648Google Merchant Center.<\/li><li>\u0641\u0647\u0645 \u062c\u064a\u062f \u0644\u0645\u0628\u0627\u062f\u0626 SEO \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a.<\/li><li>\u064a\u064f\u0641\u0636\u0651\u0644 \u062e\u0628\u0631\u0629 \u0633\u0627\u0628\u0642\u0629 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 \u0623\u0648 \u0645\u0646\u0635\u0627\u062a \u0645\u0634\u0627\u0628\u0647\u0629 (\u0632\u062f\u060c Shopify).<\/li><li>\u062f\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u0642\u0646\u064a\u0629.<\/li><li>\u0625\u062c\u0627\u062f\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0625\u0644\u0645\u0627\u0645 \u062c\u064a\u062f \u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629.<\/li><\/ul>",
+                "requirements": "<ul><li>\u0625\u0639\u062f\u0627\u062f \u0648\u0631\u0628\u0637 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u0643\u0633\u0644 (Meta Pixel\u060c TikTok Pixel\u060c Google Tag Manager \/ GA4) \u0648\u0636\u0628\u0637 \u0623\u062d\u062f\u0627\u062b \u0627\u0644\u062a\u062d\u0648\u064a\u0644 (Conversions API).<\/li><li>\u0648\u062a\u062d\u0633\u064a\u0646 \u062d\u0645\u0644\u0627\u062a Google Ads \u0648Google Merchant Center\u060c \u0648\u0645\u062a\u0627\u0628\u0639\u0629 Search Console.<\/li><li>\u0625\u062f\u0627\u0631\u0629 \u0648\u062a\u062d\u0633\u064a\u0646 \u0645\u0646\u062a\u062c\u0627\u062a \u0648\u0643\u062a\u0627\u0644\u0648\u062c \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 (\u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646\u060c \u0627\u0644\u0623\u0648\u0635\u0627\u0641\u060c \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a\u060c \u0627\u0644\u0635\u0648\u0631).<\/li><li>\u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b (SEO) \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a \u0644\u0644\u0645\u062a\u062c\u0631.<\/li><li>\u0625\u062f\u0627\u0631\u0629 \u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0628\u0631 Google Analytics \u0648\u0644\u0648\u062d\u0627\u062a \u0633\u0644\u0629\u060c \u0648\u0625\u0639\u062f\u0627\u062f \u062a\u0642\u0627\u0631\u064a\u0631 \u062f\u0648\u0631\u064a\u0629.<\/li><li>\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0645\u0639 \u0641\u0631\u064a\u0642 \u0627\u0644\u0633\u0648\u0634\u064a\u0627\u0644 \u0645\u064a\u062f\u064a\u0627 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0644\u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a.<\/li><\/ul>",
+                "salary": {
+                    "min": null,
+                    "max": null,
+                    "currency": null,
+                    "period": null,
+                    "additionalDetails": null,
+                    "isPaid": true
+                },
+                "keywords": [
+                    {
+                        "name": "\u062e\u0628\u0631\u0629 \u0644\u0627 \u062a\u0642\u0644 \u0639\u0646 \u0633\u0646\u062a\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0631\u0642\u0645\u064a \/ \u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0623\u062f\u0627\u0621 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0625\u062a\u0642\u0627\u0646 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639: Meta Business Suite\u060c TikTok Ads\u060c Google Tag Manager\u060c GA4.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Meta-Business-Suite-TikTok-Ads-Google-Tag-Manager-GA4-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u062e\u0628\u0631\u0629 \u0639\u0645\u0644\u064a\u0629 \u0641\u064a Google Ads \u0648Google Merchant Center.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Google-Ads-Google-Merchant-Center-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0641\u0647\u0645 \u062c\u064a\u062f \u0644\u0645\u0628\u0627\u062f\u0626 SEO \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/SEO-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u064a\u064f\u0641\u0636\u0651\u0644 \u062e\u0628\u0631\u0629 \u0633\u0627\u0628\u0642\u0629 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 \u0623\u0648 \u0645\u0646\u0635\u0627\u062a \u0645\u0634\u0627\u0628\u0647\u0629 (\u0632\u062f\u060c Shopify).",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Shopify-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u062f\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u0642\u0646\u064a\u0629.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0625\u062c\u0627\u062f\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0625\u0644\u0645\u0627\u0645 \u062c\u064a\u062f \u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0625\u0639\u062f\u0627\u062f \u0648\u0631\u0628\u0637 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u0643\u0633\u0644 (Meta Pixel\u060c TikTok Pixel\u060c Google Tag Manager \/ GA4) \u0648\u0636\u0628\u0637 \u0623\u062d\u062f\u0627\u062b \u0627\u0644\u062a\u062d\u0648\u064a\u0644 (Conversions API).",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Meta-Pixel-TikTok-Pixel-Google-Tag-Manager-GA4-Conversions-API-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0648\u062a\u062d\u0633\u064a\u0646 \u062d\u0645\u0644\u0627\u062a Google Ads \u0648Google Merchant Center\u060c \u0648\u0645\u062a\u0627\u0628\u0639\u0629 Search Console.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Google-Ads-Google-Merchant-Center-Search-Console-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0625\u062f\u0627\u0631\u0629 \u0648\u062a\u062d\u0633\u064a\u0646 \u0645\u0646\u062a\u062c\u0627\u062a \u0648\u0643\u062a\u0627\u0644\u0648\u062c \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 (\u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646\u060c \u0627\u0644\u0623\u0648\u0635\u0627\u0641\u060c \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a\u060c \u0627\u0644\u0635\u0648\u0631).",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b (SEO) \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a \u0644\u0644\u0645\u062a\u062c\u0631.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/SEO-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0625\u062f\u0627\u0631\u0629 \u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0628\u0631 Google Analytics \u0648\u0644\u0648\u062d\u0627\u062a \u0633\u0644\u0629\u060c \u0648\u0625\u0639\u062f\u0627\u062f \u062a\u0642\u0627\u0631\u064a\u0631 \u062f\u0648\u0631\u064a\u0629.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Google-Analytics-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0645\u0639 \u0641\u0631\u064a\u0642 \u0627\u0644\u0633\u0648\u0634\u064a\u0627\u0644 \u0645\u064a\u062f\u064a\u0627 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0644\u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a.",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    }
+                ],
+                "careerLevel": {
+                    "id": 6,
+                    "name": "Experienced",
+                    "hint": "Non-Manager",
+                    "translations": {
+                        "hint": {
+                            "ar": "\u063a\u064a\u0631 \u0625\u062f\u0627\u0631\u064a",
+                            "en": "Non-Manager"
+                        },
+                        "name": {
+                            "ar": "\u0630\u0648 \u062e\u0628\u0631\u0629 (\u063a\u064a\u0631 \u0645\u062f\u064a\u0631)",
+                            "en": "Experienced (Non-Manager)"
+                        },
+                        "display_name": {
+                            "ar": "\u0630\u0648 \u062e\u0628\u0631\u0629",
+                            "en": "Experienced"
+                        }
+                    },
+                    "browsePage": "a\/Experienced-Jobs-in-Egypt"
+                },
+                "workplaceArrangement": {
+                    "id": 1,
+                    "displayedName": "On-site",
+                    "translations": {
+                        "displayed_name": {
+                            "ar": "\u0639\u0645\u0644 \u0645\u0646 \u0645\u0642\u0631 \u0627\u0644\u0634\u0631\u0643\u0629",
+                            "en": "on_site"
+                        }
+                    },
+                    "browsePage": "a\/On-Site-Jobs-in-Egypt"
+                },
+                "location": {
+                    "country": {
+                        "id": 56,
+                        "name": "Egypt",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0645\u0635\u0631",
+                                "en": "Egypt"
+                            }
+                        },
+                        "code": "EG",
+                        "browsePage": "a\/Jobs-in-Egypt"
+                    },
+                    "city": {
+                        "id": 1545,
+                        "name": "Cairo",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+                                "en": "Cairo"
+                            }
+                        },
+                        "latitude": "30.05075900",
+                        "longitude": "31.23383900",
+                        "browsePage": "a\/Jobs-in-Cairo"
+                    },
+                    "area": {
+                        "id": 38,
+                        "name": "Nasr City",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631",
+                                "en": "Nasr City"
+                            }
+                        },
+                        "latitude": "30.05578000",
+                        "longitude": "31.34616400",
+                        "browsePage": "a\/Jobs-in-Nasr-City"
+                    }
+                },
+                "workExperienceYears": {
+                    "min": 2,
+                    "max": 4
+                },
+                "vacancies": 1,
+                "workRoles": [
+                    {
+                        "id": 8,
+                        "name": "Creative\/Design\/Art",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0627\u0644\u0625\u0628\u062f\u0627\u0639\/\u0627\u0644\u062a\u0635\u0645\u064a\u0645\/\u0627\u0644\u0641\u0646",
+                                "en": "Creative\/Design\/Art"
+                            }
+                        },
+                        "browsePage": "a\/Creative-Design-Art-Jobs-in-Egypt"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Writing\/Editorial",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0627\u0644\u0643\u062a\u0627\u0628\u0629\/\u0627\u0644\u062a\u062d\u0631\u064a\u0631",
+                                "en": "Writing\/Editorial"
+                            }
+                        },
+                        "browsePage": "a\/Editorial-Writing-Jobs-in-Egypt"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Marketing\/PR\/Advertising",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0627\u0644\u062a\u0633\u0648\u064a\u0642\/\u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629\/\u0627\u0644\u0625\u0639\u0644\u0627\u0646",
+                                "en": "Marketing\/PR\/Advertising"
+                            }
+                        },
+                        "browsePage": "a\/Marketing-PR-Advertising-Jobs-in-Egypt"
+                    }
+                ],
+                "workTypes": [
+                    {
+                        "id": 1,
+                        "name": "full_time",
+                        "translations": {
+                            "displayed_name": {
+                                "ar": "\u062f\u0648\u0627\u0645 \u0643\u0627\u0645\u0644",
+                                "en": "full_time"
+                            }
+                        },
+                        "displayedName": "Full Time",
+                        "browsePage": "a\/Full-Time-Jobs-in-Egypt"
+                    }
+                ],
+                "schools": [],
+                "candidatePreferences": {
+                    "gender": null,
+                    "educationLevel": {
+                        "id": 14,
+                        "name": "Bachelor's Degree",
+                        "translations": {
+                            "name": {
+                                "ar": "\u062f\u0631\u062c\u0629 \u0627\u0644\u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0648\u0633",
+                                "en": "Bachelor's Degree"
+                            }
+                        }
+                    },
+                    "requiresBachelorDegree": false,
+                    "requiresGoodProfileMeter": false,
+                    "requiresAcademicExcellence": false
+                },
+                "hotScore": 1,
+                "logo": null,
+                "slug": "h88dlb6e12nk-akhsayy-tsoyk-adaaa-otkny-smaw-cairo-egypt",
+                "uri": "jobs\/p\/h88dlb6e12nk-akhsayy-tsoyk-adaaa-otkny-smaw-cairo-egypt",
+                "views": 113,
+                "redirectUrl": null,
+                "tempWorkingFromHome": false,
+                "hideCompany": false,
+                "hideGender": false,
+                "hideSalary": true,
+                "settings": {
+                    "isAutoPosted": null,
+                    "isHighlighted": null,
+                    "isFeatured": null
+                },
+                "postedAt": "06\/17\/2026 13:15:10",
+                "expireAt": "08\/16\/2026 13:15:10",
+                "userContentTranslations": {
+                    "title": {
+                        "ar": "\u0623\u062e\u0635\u0627\u0626\u064a \u062a\u0633\u0648\u064a\u0642 \u0623\u062f\u0627\u0621 \u0648\u062a\u0642\u0646\u064a",
+                        "en": "Performance and Technical Marketing Specialist",
+                        "confidence": 1,
+                        "lang_detected": "ar"
+                    },
+                    "description": {
+                        "ar": "\u062e\u0628\u0631\u0629 \u0644\u0627 \u062a\u0642\u0644 \u0639\u0646 \u0633\u0646\u062a\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0631\u0642\u0645\u064a \/ \u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0623\u062f\u0627\u0621 \u0644\u0644\u062a\u062c\u0627\u0631\u0629 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629.\u0625\u062a\u0642\u0627\u0646 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639: Meta Business Suite\u060c TikTok Ads\u060c Google Tag Manager\u060c GA4.\u062e\u0628\u0631\u0629 \u0639\u0645\u0644\u064a\u0629 \u0641\u064a Google Ads \u0648Google Merchant Center.\u0641\u0647\u0645 \u062c\u064a\u062f \u0644\u0645\u0628\u0627\u062f\u0626 SEO \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a.\u064a\u064f\u0641\u0636\u0651\u0644 \u062e\u0628\u0631\u0629 \u0633\u0627\u0628\u0642\u0629 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 \u0623\u0648 \u0645\u0646\u0635\u0627\u062a \u0645\u0634\u0627\u0628\u0647\u0629 (\u0632\u062f\u060c Shopify).\u062f\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062a\u0642\u0646\u064a\u0629.\u0625\u062c\u0627\u062f\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0625\u0644\u0645\u0627\u0645 \u062c\u064a\u062f \u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629.",
+                        "en": "At least two years of experience in digital marketing\/performance marketing for e-commerce. Proficiency in tracking tools: Meta Business Suite, TikTok Ads, Google Tag Manager, GA4. Practical experience with Google Ads and Google Merchant Center. A good understanding of technical and on-page SEO principles. Previous experience with Salla or similar platforms (Zid, Shopify) is preferred. High accuracy in handling numbers and technical settings. Fluency in Arabic and a good grasp of technical English.",
+                        "confidence": 0.7381703470031545,
+                        "lang_detected": "ar"
+                    },
+                    "requirements": {
+                        "ar": "\u0625\u0639\u062f\u0627\u062f \u0648\u0631\u0628\u0637 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u0643\u0633\u0644 (Meta Pixel\u060c TikTok Pixel\u060c Google Tag Manager \/ GA4) \u0648\u0636\u0628\u0637 \u0623\u062d\u062f\u0627\u062b \u0627\u0644\u062a\u062d\u0648\u064a\u0644 (Conversions API).\u0648\u062a\u062d\u0633\u064a\u0646 \u062d\u0645\u0644\u0627\u062a Google Ads \u0648Google Merchant Center\u060c \u0648\u0645\u062a\u0627\u0628\u0639\u0629 Search Console.\u0625\u062f\u0627\u0631\u0629 \u0648\u062a\u062d\u0633\u064a\u0646 \u0645\u0646\u062a\u062c\u0627\u062a \u0648\u0643\u062a\u0627\u0644\u0648\u062c \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u0633\u0644\u0629 (\u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646\u060c \u0627\u0644\u0623\u0648\u0635\u0627\u0641\u060c \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a\u060c \u0627\u0644\u0635\u0648\u0631).\u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b (SEO) \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u062f\u0627\u062e\u0644\u064a \u0644\u0644\u0645\u062a\u062c\u0631.\u0625\u062f\u0627\u0631\u0629 \u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u062a\u062c\u0631 \u0639\u0628\u0631 Google Analytics \u0648\u0644\u0648\u062d\u0627\u062a \u0633\u0644\u0629\u060c \u0648\u0625\u0639\u062f\u0627\u062f \u062a\u0642\u0627\u0631\u064a\u0631 \u062f\u0648\u0631\u064a\u0629.\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0645\u0639 \u0641\u0631\u064a\u0642 \u0627\u0644\u0633\u0648\u0634\u064a\u0627\u0644 \u0645\u064a\u062f\u064a\u0627 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0644\u062a\u0648\u062d\u064a\u062f \u0627\u0644\u062a\u062a\u0628\u0651\u0639 \u0648\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a.",
+                        "en": "Setting up and connecting tracking and pixel tools (Meta Pixel, TikTok Pixel, Google Tag Manager\/GA4) and configuring conversion events (Conversions API). Optimizing Google Ads and Google Merchant Center campaigns and monitoring Search Console. Managing and improving the store&#39;s products and catalog on the Salla platform (titles, descriptions, categories, images). Performing technical and on-page SEO for the store. Managing store performance analysis via Google Analytics and Salla dashboards, and preparing periodic reports. Coordinating with the social media team in Saudi Arabia to unify tracking and data.",
+                        "confidence": 0.7090909090909091,
+                        "lang_detected": "ar"
+                    }
+                }
+            },
+            "relationships": {
+                "company": {
+                    "data": {
+                        "type": "company",
+                        "id": "132323"
+                    }
+                }
+            },
+            "links": {
+                "self": "https:\/\/wuzzuf.net\/api\/job\/fe6ba458-0a74-41bb-ae76-1425afe9284b"
+            }
+        }
+    ]
+}

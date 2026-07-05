@@ -1,0 +1,28 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+    -   id: check-added-large-files
+
+-   repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+    -   id: detect-secrets
+        # tests/ holds intentional secret-shaped fixtures (base64 blobs, key
+        # patterns). Anchor to the real top-level path — `.*/tests/.*` never
+        # matched it (no leading slash before `tests/`).
+        exclude: (^|/)tests/
+
+-   repo: local
+    hooks:
+    -   id: check-api-keys
+        name: Check for hardcoded API keys
+        entry: (?i)(LITELLM_API_KEY=|OPENAI_API_KEY=|GEMINI_API_KEY=|ANTHROPIC_API_KEY=|sk-ant-|sk-proj-|sk-or-)
+        language: pygrep
+        types: [text]
+        # Env templates legitimately contain `KEY=placeholder`, and this file
+        # itself contains the token patterns above — neither is a real leak.
+        exclude: '(^\.pre-commit-config\.yaml$|\.env\.(example|sample|template)$)'

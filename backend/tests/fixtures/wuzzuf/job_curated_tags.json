@@ -1,0 +1,226 @@
+{
+    "meta": {
+        "totalCount": 1
+    },
+    "data": [
+        {
+            "type": "job",
+            "id": "2aae5924-f7f8-47cc-82cf-7d3bba6f94ec",
+            "attributes": {
+                "jobType": "job",
+                "applicationType": "internal",
+                "status": "active",
+                "title": "Data Analyst",
+                "description": "<h2>&nbsp;<\/h2><p><br>Main Responsibilities<br><br>1. Sales Performance Analysis<br>\u2022 Analyze sales by product, sales representative, territory\/region, and customer segment.<br>\u2022 Identify trends, opportunities, and performance gaps.<br>\u2022 Track achievement against sales targets and budgets.<br><br>2. Dashboard &amp; Reporting<br>\u2022 Create and maintain dashboards for management.<br>\u2022 Prepare daily sales reports, weekly performance reviews, monthly business reviews, and forecast reports.<br>\u2022 Ensure data accuracy and consistency.<br><br>3. Forecasting &amp; Planning<br>\u2022 Support sales forecasting.<br>\u2022 Analyze historical sales trends.<br>\u2022 Predict future demand and revenue.<br>\u2022 Help management set realistic targets.<br><br>4. Customer Analysis<br>\u2022 Analyze customer purchasing behavior.<br>\u2022 Identify high-value customers, customers at risk of leaving, and growth opportunities within accounts.<br>\u2022 Support customer segmentation strategies.<br><br>5. Pricing &amp; Profitability Analysis<br>\u2022 Analyze gross margins, product profitability, discount impact, and customer profitability.<br>\u2022 Recommend actions to improve profitability.<br><br>6. CRM &amp; Data Quality Management<br>\u2022 Monitor CRM data quality.<br>\u2022 Ensure opportunities, customer records, and sales activities are correctly recorded.<br>\u2022 Identify missing or inaccurate data.<br><br>7. Business Intelligence Support<br>\u2022 Build reports using Microsoft Power BI, Tableau, Microsoft Excel, and SQL Server.<br>\u2022 Automate reporting processes where possible.<br><br>Key KPIs for a Sales Data Analyst<br>\u2022 Report Accuracy %<br>\u2022 Dashboard Adoption Rate<br>\u2022 Forecast Accuracy %<br>\u2022 Data Quality Score<br>\u2022 Time Required to Generate Reports<br>\u2022 Number of Actionable Insights Implemented<br>\u2022 Revenue Opportunities Identified<br>\u2022 Margin Improvement Recommendations<br><br><br>&nbsp;<\/p>",
+                "requirements": "<p>Bachelor's Degree in , Computer Science, Information Systems, Engineering, or a related field.&nbsp;<br>Professional certifications in Data Analytics, Business Intelligence, Power BI, SQL, or Data Science are a plus.&nbsp;<br><br>3\u20135 years of experience in Sales Analysis, Business Analysis, Commercial Excellence, Revenue Management, Business Intelligence, or a related analytical role.&nbsp;<br>Proven experience in analyzing sales performance, forecasting, budgeting, and KPI reporting.&nbsp;<br>Hands-on experience with Power BI, Microsoft Excel (Advanced), SQL, and CRM systems.&nbsp;<br>Experience developing dashboards, management reports, and automated reporting solutions.&nbsp;<br><br>Strong understanding of sales processes, pipeline management, pricing analysis, and profitability analysis.&nbsp;<br><br>Experience in healthcare, medical devices, pharmaceuticals, distribution, or FMCG industries is preferred.&nbsp;<\/p>",
+                "salary": {
+                    "min": null,
+                    "max": null,
+                    "currency": null,
+                    "period": null,
+                    "additionalDetails": "2.5 Months Incentive \nMedical & Life Insurance",
+                    "isPaid": true
+                },
+                "keywords": [
+                    {
+                        "name": "Analysis",
+                        "userContentTranslations": {
+                            "name": {
+                                "ar": "\u062a\u062d\u0644\u064a\u0644",
+                                "en": "Analysis",
+                                "confidence": 1,
+                                "lang_detected": "en"
+                            }
+                        },
+                        "browsePage": "a\/Analysis-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "Computer Science",
+                        "userContentTranslations": {
+                            "name": {
+                                "ar": "\u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628",
+                                "en": "Computer Science",
+                                "confidence": 1,
+                                "lang_detected": "en"
+                            }
+                        },
+                        "browsePage": "a\/Computer-Science-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "Data Analysis",
+                        "userContentTranslations": null,
+                        "browsePage": "a\/Data-Analysis-Jobs-in-Egypt"
+                    },
+                    {
+                        "name": "Information Technology (IT)",
+                        "userContentTranslations": {
+                            "name": {
+                                "ar": "\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a",
+                                "en": "Information Technology (IT)",
+                                "confidence": 1,
+                                "lang_detected": "en"
+                            }
+                        },
+                        "browsePage": "a\/Information-Technology-IT-Jobs-in-Egypt"
+                    }
+                ],
+                "careerLevel": {
+                    "id": 6,
+                    "name": "Experienced",
+                    "hint": "Non-Manager",
+                    "translations": {
+                        "hint": {
+                            "ar": "\u063a\u064a\u0631 \u0625\u062f\u0627\u0631\u064a",
+                            "en": "Non-Manager"
+                        },
+                        "name": {
+                            "ar": "\u0630\u0648 \u062e\u0628\u0631\u0629 (\u063a\u064a\u0631 \u0645\u062f\u064a\u0631)",
+                            "en": "Experienced (Non-Manager)"
+                        },
+                        "display_name": {
+                            "ar": "\u0630\u0648 \u062e\u0628\u0631\u0629",
+                            "en": "Experienced"
+                        }
+                    },
+                    "browsePage": "a\/Experienced-Jobs-in-Egypt"
+                },
+                "workplaceArrangement": {
+                    "id": 1,
+                    "displayedName": "On-site",
+                    "translations": {
+                        "displayed_name": {
+                            "ar": "\u0639\u0645\u0644 \u0645\u0646 \u0645\u0642\u0631 \u0627\u0644\u0634\u0631\u0643\u0629",
+                            "en": "on_site"
+                        }
+                    },
+                    "browsePage": "a\/On-Site-Jobs-in-Egypt"
+                },
+                "location": {
+                    "country": {
+                        "id": 56,
+                        "name": "Egypt",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0645\u0635\u0631",
+                                "en": "Egypt"
+                            }
+                        },
+                        "code": "EG",
+                        "browsePage": "a\/Data-Analyst-Jobs-in-Egypt"
+                    },
+                    "city": {
+                        "id": 1545,
+                        "name": "Cairo",
+                        "translations": {
+                            "name": {
+                                "ar": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+                                "en": "Cairo"
+                            }
+                        },
+                        "latitude": "30.05075900",
+                        "longitude": "31.23383900",
+                        "browsePage": "a\/Data-Analyst-Jobs-in-Cairo"
+                    },
+                    "area": null
+                },
+                "workExperienceYears": {
+                    "min": 3,
+                    "max": 6
+                },
+                "vacancies": 1,
+                "workRoles": [
+                    {
+                        "id": 16,
+                        "name": "IT\/Software Development",
+                        "translations": {
+                            "name": {
+                                "ar": "\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\/\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a",
+                                "en": "IT\/Software Development"
+                            }
+                        },
+                        "browsePage": "a\/IT-Software-Development-Jobs-in-Egypt"
+                    }
+                ],
+                "workTypes": [
+                    {
+                        "id": 1,
+                        "name": "full_time",
+                        "translations": {
+                            "displayed_name": {
+                                "ar": "\u062f\u0648\u0627\u0645 \u0643\u0627\u0645\u0644",
+                                "en": "full_time"
+                            }
+                        },
+                        "displayedName": "Full Time",
+                        "browsePage": "a\/Full-Time-Jobs-in-Egypt"
+                    }
+                ],
+                "schools": [],
+                "candidatePreferences": {
+                    "gender": null,
+                    "educationLevel": {
+                        "id": 10,
+                        "name": "Not Specified",
+                        "translations": {
+                            "name": {
+                                "ar": "\u063a\u064a\u0631 \u0645\u062d\u062f\u062f",
+                                "en": "Not Specified"
+                            }
+                        }
+                    },
+                    "requiresBachelorDegree": false,
+                    "requiresGoodProfileMeter": false,
+                    "requiresAcademicExcellence": false
+                },
+                "hotScore": 9,
+                "logo": null,
+                "slug": "jyy8v22nmjva-data-analyst-egmed-cairo-egypt",
+                "uri": "jobs\/p\/jyy8v22nmjva-data-analyst-egmed-cairo-egypt",
+                "views": 975,
+                "redirectUrl": null,
+                "tempWorkingFromHome": false,
+                "hideCompany": false,
+                "hideGender": false,
+                "hideSalary": true,
+                "settings": {
+                    "isAutoPosted": null,
+                    "isHighlighted": null,
+                    "isFeatured": null
+                },
+                "postedAt": "06\/17\/2026 10:42:44",
+                "expireAt": "08\/16\/2026 10:42:44",
+                "userContentTranslations": {
+                    "title": {
+                        "ar": "\u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a",
+                        "en": "Data Analyst",
+                        "confidence": 1,
+                        "lang_detected": "en"
+                    },
+                    "description": {
+                        "ar": "\u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0627\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629: 1. \u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a: \u2022 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u062d\u0633\u0628 \u0627\u0644\u0645\u0646\u062a\u062c\u060c \u0648\u0645\u0646\u062f\u0648\u0628 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u0648\u0627\u0644\u0645\u0646\u0637\u0642\u0629\/\u0627\u0644\u0625\u0642\u0644\u064a\u0645\u060c \u0648\u0634\u0631\u064a\u062d\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621. \u2022 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0627\u062a\u062c\u0627\u0647\u0627\u062a\u060c \u0648\u0627\u0644\u0641\u0631\u0635\u060c \u0648\u0641\u062c\u0648\u0627\u062a \u0627\u0644\u0623\u062f\u0627\u0621. \u2022 \u062a\u062a\u0628\u0639 \u0627\u0644\u0625\u0646\u062c\u0627\u0632\u0627\u062a \u0645\u0642\u0627\u0631\u0646\u0629\u064b \u0628\u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0648\u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0627\u062a. 2. \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631: \u2022 \u0625\u0646\u0634\u0627\u0621 \u0644\u0648\u062d\u0627\u062a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0644\u0644\u0625\u062f\u0627\u0631\u0629 \u0648\u0635\u064a\u0627\u0646\u062a\u0647\u0627. \u2022 \u0625\u0639\u062f\u0627\u062f \u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0627\u0644\u064a\u0648\u0645\u064a\u0629\u060c \u0648\u0645\u0631\u0627\u062c\u0639\u0627\u062a \u0627\u0644\u0623\u062f\u0627\u0621 \u0627\u0644\u0623\u0633\u0628\u0648\u0639\u064a\u0629\u060c \u0648\u0645\u0631\u0627\u062c\u0639\u0627\u062a \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0634\u0647\u0631\u064a\u0629\u060c \u0648\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a. \u2022 \u0636\u0645\u0627\u0646 \u062f\u0642\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0627\u062a\u0633\u0627\u0642\u0647\u0627. 3. \u0627\u0644\u062a\u0646\u0628\u0624 \u0648\u0627\u0644\u062a\u062e\u0637\u064a\u0637: \u2022 \u062f\u0639\u0645 \u0627\u0644\u062a\u0646\u0628\u0624 \u0628\u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a. \u2022 \u062a\u062d\u0644\u064a\u0644 \u0627\u062a\u062c\u0627\u0647\u0627\u062a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629. \u2022 \u062a\u0648\u0642\u0639 \u0627\u0644\u0637\u0644\u0628 \u0648\u0627\u0644\u0625\u064a\u0631\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u064a\u0629. \u2022 \u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0641\u064a \u0648\u0636\u0639 \u0623\u0647\u062f\u0627\u0641 \u0648\u0627\u0642\u0639\u064a\u0629. 4. \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0639\u0645\u0644\u0627\u0621: \u2022 \u062a\u062d\u0644\u064a\u0644 \u0633\u0644\u0648\u0643 \u0627\u0644\u0634\u0631\u0627\u0621 \u0644\u062f\u0649 \u0627\u0644\u0639\u0645\u0644\u0627\u0621. \u2022 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0630\u0648\u064a \u0627\u0644\u0642\u064a\u0645\u0629 \u0627\u0644\u0639\u0627\u0644\u064a\u0629\u060c \u0648\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0645\u0639\u0631\u0636\u064a\u0646 \u0644\u062e\u0637\u0631 \u0627\u0644\u0645\u063a\u0627\u062f\u0631\u0629\u060c \u0648\u0641\u0631\u0635 \u0627\u0644\u0646\u0645\u0648 \u062f\u0627\u062e\u0644 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a. \u2022 \u062f\u0639\u0645 \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0627\u062a \u062a\u062c\u0632\u0626\u0629 \u0627\u0644\u0639\u0645\u0644\u0627\u0621. 5. \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u062a\u0633\u0639\u064a\u0631 \u0648\u0627\u0644\u0631\u0628\u062d\u064a\u0629: \u2022 \u062a\u062d\u0644\u064a\u0644 \u0647\u0648\u0627\u0645\u0634 \u0627\u0644\u0631\u0628\u062d \u0627\u0644\u0625\u062c\u0645\u0627\u0644\u064a\u0629\u060c \u0648\u0631\u0628\u062d\u064a\u0629 \u0627\u0644\u0645\u0646\u062a\u062c\u060c \u0648\u062a\u0623\u062b\u064a\u0631 \u0627\u0644\u062e\u0635\u0645\u060c \u0648\u0631\u0628\u062d\u064a\u0629 \u0627\u0644\u0639\u0645\u064a\u0644. \u2022 \u0627\u0644\u062a\u0648\u0635\u064a\u0629 \u0628\u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0644\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0631\u0628\u062d\u064a\u0629. 6. \u0625\u062f\u0627\u0631\u0629 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0648\u062c\u0648\u062f\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u2022 \u0645\u0631\u0627\u0642\u0628\u0629 \u062c\u0648\u062f\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621. \u2022 \u0636\u0645\u0627\u0646 \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0641\u0631\u0635 \u0648\u0633\u062c\u0644\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0648\u0623\u0646\u0634\u0637\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d. \u2022 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629 \u0623\u0648 \u063a\u064a\u0631 \u0627\u0644\u062f\u0642\u064a\u0642\u0629. 7. \u062f\u0639\u0645 \u0630\u0643\u0627\u0621 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u2022 \u0625\u0646\u0634\u0627\u0621 \u062a\u0642\u0627\u0631\u064a\u0631 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 Microsoft Power BI \u0648 Tableau \u0648 Microsoft Excel \u0648 SQL Server. \u2022 \u0623\u062a\u0645\u062a\u0629 \u0639\u0645\u0644\u064a\u0627\u062a \u0625\u0639\u062f\u0627\u062f \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u062d\u064a\u062b\u0645\u0627 \u0623\u0645\u0643\u0646. \u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0623\u062f\u0627\u0621 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u2022 \u0646\u0633\u0628\u0629 \u062f\u0642\u0629 \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u2022 \u0645\u0639\u062f\u0644 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u2022 \u0646\u0633\u0628\u0629 \u062f\u0642\u0629 \u0627\u0644\u062a\u0648\u0642\u0639\u0627\u062a \u2022 \u062f\u0631\u062c\u0629 \u062c\u0648\u062f\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u2022 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0644\u0627\u0632\u0645 \u0644\u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u2022 \u0639\u062f\u062f \u0627\u0644\u0631\u0624\u0649 \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0646\u0641\u064a\u0630 \u2022 \u0641\u0631\u0635 \u0627\u0644\u0625\u064a\u0631\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u062d\u062f\u062f\u0629 \u2022 \u062a\u0648\u0635\u064a\u0627\u062a \u062a\u062d\u0633\u064a\u0646 \u0647\u0627\u0645\u0634 \u0627\u0644\u0631\u0628\u062d",
+                        "en": "\u00a0Main Responsibilities1. Sales Performance Analysis\u2022 Analyze sales by product, sales representative, territory\/region, and customer segment.\u2022 Identify trends, opportunities, and performance gaps.\u2022 Track achievement against sales targets and budgets.2. Dashboard & Reporting\u2022 Create and maintain dashboards for management.\u2022 Prepare daily sales reports, weekly performance reviews, monthly business reviews, and forecast reports.\u2022 Ensure data accuracy and consistency.3. Forecasting & Planning\u2022 Support sales forecasting.\u2022 Analyze historical sales trends.\u2022 Predict future demand and revenue.\u2022 Help management set realistic targets.4. Customer Analysis\u2022 Analyze customer purchasing behavior.\u2022 Identify high-value customers, customers at risk of leaving, and growth opportunities within accounts.\u2022 Support customer segmentation strategies.5. Pricing & Profitability Analysis\u2022 Analyze gross margins, product profitability, discount impact, and customer profitability.\u2022 Recommend actions to improve profitability.6. CRM & Data Quality Management\u2022 Monitor CRM data quality.\u2022 Ensure opportunities, customer records, and sales activities are correctly recorded.\u2022 Identify missing or inaccurate data.7. Business Intelligence Support\u2022 Build reports using Microsoft Power BI, Tableau, Microsoft Excel, and SQL Server.\u2022 Automate reporting processes where possible.Key KPIs for a Sales Data Analyst\u2022 Report Accuracy %\u2022 Dashboard Adoption Rate\u2022 Forecast Accuracy %\u2022 Data Quality Score\u2022 Time Required to Generate Reports\u2022 Number of Actionable Insights Implemented\u2022 Revenue Opportunities Identified\u2022 Margin Improvement Recommendations\u00a0",
+                        "confidence": 1,
+                        "lang_detected": "en"
+                    },
+                    "requirements": {
+                        "ar": "\u0634\u0647\u0627\u062f\u0629 \u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0648\u0633 \u0641\u064a \u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u060c \u0623\u0648 \u0646\u0638\u0645 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u060c \u0623\u0648 \u0627\u0644\u0647\u0646\u062f\u0633\u0629\u060c \u0623\u0648 \u0623\u064a \u0645\u062c\u0627\u0644 \u0630\u064a \u0635\u0644\u0629. \u064a\u064f\u0641\u0636\u0651\u0644 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0634\u0647\u0627\u062f\u0627\u062a \u0645\u0647\u0646\u064a\u0629 \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u060c \u0623\u0648 \u0630\u0643\u0627\u0621 \u0627\u0644\u0623\u0639\u0645\u0627\u0644\u060c \u0623\u0648 Power BI\u060c \u0623\u0648 SQL\u060c \u0623\u0648 \u0639\u0644\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a. \u062e\u0628\u0631\u0629 \u0645\u0646 3 \u0625\u0644\u0649 5 \u0633\u0646\u0648\u0627\u062a \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u0623\u0648 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644\u060c \u0623\u0648 \u0627\u0644\u062a\u0645\u064a\u0632 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u060c \u0623\u0648 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u062f\u0627\u062a\u060c \u0623\u0648 \u0630\u0643\u0627\u0621 \u0627\u0644\u0623\u0639\u0645\u0627\u0644\u060c \u0623\u0648 \u0623\u064a \u062f\u0648\u0631 \u062a\u062d\u0644\u064a\u0644\u064a \u0630\u064a \u0635\u0644\u0629. \u062e\u0628\u0631\u0629 \u0645\u062b\u0628\u062a\u0629 \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u0648\u0627\u0644\u062a\u0646\u0628\u0624\u060c \u0648\u0625\u0639\u062f\u0627\u062f \u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0627\u062a\u060c \u0648\u062a\u0642\u0627\u0631\u064a\u0631 \u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0623\u062f\u0627\u0621 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629. \u062e\u0628\u0631\u0629 \u0639\u0645\u0644\u064a\u0629 \u0641\u064a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 Power BI\u060c \u0648Microsoft Excel (\u0645\u0633\u062a\u0648\u0649 \u0645\u062a\u0642\u062f\u0645)\u060c \u0648SQL\u060c \u0648\u0623\u0646\u0638\u0645\u0629 \u0625\u062f\u0627\u0631\u0629 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 (CRM). \u062e\u0628\u0631\u0629 \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0644\u0648\u062d\u0627\u062a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u060c \u0648\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0625\u062f\u0627\u0631\u0629\u060c \u0648\u062d\u0644\u0648\u0644 \u0625\u0639\u062f\u0627\u062f \u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0622\u0644\u064a\u0629. \u0641\u0647\u0645 \u0639\u0645\u064a\u0642 \u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u0648\u0625\u062f\u0627\u0631\u0629 \u062e\u0637\u0648\u0637 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u062a\u0633\u0639\u064a\u0631\u060c \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0631\u0628\u062d\u064a\u0629. \u064a\u064f\u0641\u0636\u0651\u0644 \u0648\u062c\u0648\u062f \u062e\u0628\u0631\u0629 \u0641\u064a \u0642\u0637\u0627\u0639\u0627\u062a \u0627\u0644\u0631\u0639\u0627\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\u0629\u060c \u0623\u0648 \u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0637\u0628\u064a\u0629\u060c \u0623\u0648 \u0627\u0644\u0623\u062f\u0648\u064a\u0629\u060c \u0623\u0648 \u0627\u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0623\u0648 \u0627\u0644\u0633\u0644\u0639 \u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643\u064a\u0629 \u0633\u0631\u064a\u0639\u0629 \u0627\u0644\u062a\u062f\u0627\u0648\u0644.",
+                        "en": "Bachelor's Degree in , Computer Science, Information Systems, Engineering, or a related field.\u00a0Professional certifications in Data Analytics, Business Intelligence, Power BI, SQL, or Data Science are a plus.\u00a03\u20135 years of experience in Sales Analysis, Business Analysis, Commercial Excellence, Revenue Management, Business Intelligence, or a related analytical role.\u00a0Proven experience in analyzing sales performance, forecasting, budgeting, and KPI reporting.\u00a0Hands-on experience with Power BI, Microsoft Excel (Advanced), SQL, and CRM systems.\u00a0Experience developing dashboards, management reports, and automated reporting solutions.\u00a0Strong understanding of sales processes, pipeline management, pricing analysis, and profitability analysis.\u00a0Experience in healthcare, medical devices, pharmaceuticals, distribution, or FMCG industries is preferred.\u00a0",
+                        "confidence": 1,
+                        "lang_detected": "en"
+                    }
+                }
+            },
+            "relationships": {
+                "company": {
+                    "data": {
+                        "type": "company",
+                        "id": "4280"
+                    }
+                }
+            },
+            "links": {
+                "self": "https:\/\/wuzzuf.net\/api\/job\/2aae5924-f7f8-47cc-82cf-7d3bba6f94ec"
+            }
+        }
+    ]
+}

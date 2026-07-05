@@ -1,0 +1,56 @@
+version: "3.8"
+
+services:
+  db:
+    image: pgvector/pgvector:pg17 # PostgreSQL 17 with pgvector built in
+    container_name: career_coach_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data # data survives restarts
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # Settings composes DATABASE_URL from the POSTGRES_* vars below.
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${POSTGRES_DB:-career_coach}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - TEST_POSTGRES_HOST=db
+      - TEST_POSTGRES_PORT=5432
+      - TEST_POSTGRES_DB=${TEST_POSTGRES_DB:-career_coach_test}
+      - TEST_POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - TEST_POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - CORS_ALLOWED_ORIGINS=["http://localhost:3000"]
+      - LITELLM_API_KEY=${LITELLM_API_KEY}
+      - LITELLM_BASE_URL=${LITELLM_BASE_URL}
+      - LLM_MODEL=${LLM_MODEL:-azure/FW-Kimi-K2.6}
+      - LANGFUSE_SECRET_KEY=${LANGFUSE_SECRET_KEY:-}
+      - LANGFUSE_PUBLIC_KEY=${LANGFUSE_PUBLIC_KEY:-}
+      - LANGFUSE_HOST=${LANGFUSE_HOST:-https://cloud.langfuse.com}
+    volumes:
+      - .:/app
+      - /app/.venv
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

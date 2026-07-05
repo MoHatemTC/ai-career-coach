@@ -1,0 +1,53 @@
+[project]
+name = "career-coach"
+version = "0.1.0"
+description = "AI-powered job matching and application support — Sprints.ai"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "alembic>=1.18.4",
+    "fastapi>=0.137.2",
+    "uvicorn[standard]>=0.34.0",
+    "python-multipart>=0.0.9",
+    "httpx>=0.28.1",
+    "sqlmodel>=0.0.38",
+    "pgvector>=0.4.2",
+    "psycopg[binary]>=3.3.4",
+    "pydantic-settings>=2.14.1",
+    "pypdf>=6.14.2",
+    "langgraph>=1.2.6",
+    "litellm>=1.90.0",
+    "langfuse>=2.0.0",
+    "openai>=1.10.0",
+    "prometheus-client>=0.20.0",
+    "sentence-transformers>=3.0.0",
+    "structlog>=26.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-asyncio>=1.4.0",
+    "python-dotenv>=1.0.0",
+    "ruff>=0.15.19",
+]
+
+[tool.uv]
+environments = ["sys_platform == 'linux'"]
+
+
+[tool.ruff]
+# Alembic migrations are generated code; the template carries imports
+# (sqlmodel, pgvector) that individual revisions may not all use.
+extend-exclude = ["alembic/versions"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+# auto: every `async def test_*` runs on an event loop without an explicit
+# @pytest.mark.asyncio marker. Async fixtures are awaited automatically too.
+asyncio_mode = "auto"
+addopts = "-m 'not integration'"
+markers = [
+    "integration: tests that call a live LiteLLM proxy / external services (deselected by `make test`)",
+]
